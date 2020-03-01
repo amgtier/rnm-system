@@ -1,0 +1,5 @@
+__pycache__/
+migrations/
+db.sqlite3
+rnm/files/buffered_xlsx
+rnm/import_error.log

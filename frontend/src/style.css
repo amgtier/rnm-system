@@ -1,0 +1,34 @@
+.header-table td {
+  width: 100px; }
+
+.record-info th {
+  width: 100px; }
+
+.record-info td {
+  width: 200px;
+  /*white-space: nowrap;*/ }
+
+.w-45 {
+  width: 45% !important; }
+
+.w-30 {
+  width: 30% !important; }
+
+.cursor-pointer {
+  cursor: pointer; }
+
+.required::placeholder, .conflict, .self-introducer {
+  color: red !important; }
+
+.record-info .row, .search-criteria .row {
+  margin-bottom: 20px; }
+
+.record-img {
+  float: right;
+  backgroundPosition: center center;
+  backgroundRepeat: no-repeat; }
+  @media (min-width: 768px) {
+    .record-img {
+      position: absolute; } }
+
+/*# sourceMappingURL=style.css.map */
