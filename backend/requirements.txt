@@ -50,7 +50,7 @@ six==1.12.0
 sqlparse==0.2.4
 ssh-import-id==5.7
 systemd-python==234
-Twisted==18.9.0
+Twisted==19.7.0
 ubuntu-advantage-tools==19.2
 ufw==0.36
 unattended-upgrades==0.1
