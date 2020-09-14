@@ -27,7 +27,7 @@ language-selector==0.1
 netifaces==0.10.4
 numpy==1.18.1
 pandas==1.0.1
-Pillow==7.0.0
+Pillow==7.1.0
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
 pycrypto==2.6.1
@@ -50,7 +50,7 @@ six==1.12.0
 sqlparse==0.2.4
 ssh-import-id==5.7
 systemd-python==234
-Twisted==19.7.0
+Twisted==20.3.0
 ubuntu-advantage-tools==19.2
 ufw==0.36
 unattended-upgrades==0.1
