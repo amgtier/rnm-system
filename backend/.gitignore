@@ -3,3 +3,4 @@ migrations/
 db.sqlite3
 rnm/files/buffered_xlsx
 rnm/import_error.log
+rnm/rnm/settings.py
