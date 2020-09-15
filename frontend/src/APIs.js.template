@@ -1,4 +1,4 @@
-const DOMAIN = "http://172.104.94.250:8000";
+const DOMAIN = "<DOMAIN URL>";
 export const GET_LABELS = `${DOMAIN}/a/g/label/`;
 export const FORGET_PASSWORD = `${DOMAIN}/a/forget_password/`;
 export const REGISTER = `${DOMAIN}/a/register/`;
